@@ -1,6 +1,8 @@
 ## About
 My name is Tavarence Green. I'm a Computer Scientist at Purdue University. Outside of mandatory school stuff, I work on many projects that can be found here or on my itch.io. Most of them are game development related as that is one of my many passions in life. Lots of my projects have came from hackathon projects and game jams with a focus on what my interest are currently which have been: C, C#, C++. GD, JavaScript/TypeScript, Applications, Web applications, Games, Websites, and ECT.
 
+- [Other Github](https://github.com/Tavarence) - My other acc
+
 - From: Indianpolis, Indiana
 - Education: Purdue University at Indianapolis
 
